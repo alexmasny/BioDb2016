@@ -1,0 +1,2 @@
+{"if_activation": "act", "protein_subject": "CYCS", "protein_object": "CASP9", "namespace_object": "HGNC", "namespace_subject": "HGNC", "relationship": "->"}
+{"if_activation": null, "protein_subject": "BCL2", "protein_object": "CYCS", "namespace_object": "HGNC", "namespace_subject": "HGNC", "relationship": "-|"}
