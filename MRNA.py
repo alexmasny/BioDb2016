@@ -10,7 +10,7 @@ def mrna(protein):
     mult = 3
     for i in protein:
         mult *= no_of_codons[i]
-    return mult
+    return mult % 1000000
 
-mrna('MA')
+# mrna('MA')
 mrna(read_dataset_str('mrna'))
